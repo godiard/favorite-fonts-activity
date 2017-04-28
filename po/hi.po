@@ -1,0 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Shivang Shekhar <shivank1995@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-01 16:34-0300\n"
+"PO-Revision-Date: 2017-04-29 02:54+GMT\n"
+"Last-Translator: Shivang Shekhar <shivank1995@gmail.com>\n"
+"Language-Team: Hindi <LL@li.org>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+
+#: activity/activity.info:2
+msgid "Fonts"
+msgstr "फोंट्स"
+
+#: activity/activity.info:3
+msgid "Select your favorite fonts to use in other activities."
+msgstr "अन्य गतिविधियों में उपयोग करने के लिए अपने पसंदीदा फोंट का चयन करें।"
+
+#: activity.py:238
+msgid "The quick brown fox jumps over the lazy dog."
+msgstr "भूरी लोमड़ी तेजी से आलसी कुत्ते के ऊपर कूद गयी |"
